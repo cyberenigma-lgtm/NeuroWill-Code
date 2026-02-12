@@ -2,8 +2,9 @@
 <p align="center">
   <img src="assets/logo.png" alt="NWC Logo" width="600">
 </p>
-📜 **[Genealogía del Ecosistema Neuro‑ASM](https://github.com/cyberenigma-lgtm/NeuroUniversalASM/blob/main/docs/genealogia_neuro_asm.md)**  
-Consulta la evolución completa desde MultiLang‑ASM hasta NeuroWill‑Code.
+
+📜 **[Genealogía del Ecosistema Neuro-ASM](https://github.com/cyberenigma-lgtm/NeuroUniversalASM/blob/main/docs/genealogia_neuro_asm.md)**  
+Consulta la evolución completa desde MultiLang-ASM hasta NeuroWill-Code.
 
 [**English**](#english) | [**Español**](#español)
 
