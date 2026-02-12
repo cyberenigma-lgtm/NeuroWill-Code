@@ -1,4 +1,4 @@
-# Neurowill‑Code (NWC): Semantic Direct‑to‑Silicon Assembler
+# Neurowill‑Code (NWC): Semantic Direct‑to‑Silicon Assembler <!-- Sync: 2026-02-12 08:58 -->
 <p align="center">
   <img src="assets/logo.png" alt="NWC Logo" width="600">
 </p>
