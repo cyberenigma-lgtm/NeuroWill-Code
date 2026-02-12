@@ -6,7 +6,8 @@ NWC is the bridge between human semantic intent and direct silicon execution wit
 
 ## 📖 Contents
 1. [**Usage Modes / Modos de Uso**](Usage-Modes.md)
-2. [**Direct-to-Silicon Injection / Inyección al Silicio**](Direct-to-Silicon.md)
+2. [**Genealogy / Genealogía**](https://github.com/cyberenigma-lgtm/NeuroUniversalASM/blob/main/docs/genealogia_neuro_asm.md)
+3. [**Direct-to-Silicon Injection / Inyección al Silicio**](Direct-to-Silicon.md)
 3. [**Common Errors / Errores Comunes**](Troubleshooting.md)
 4. [**FAQ / Preguntas Frecuentes**](FAQ.md)
 
