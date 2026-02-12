@@ -1,6 +1,6 @@
 # Neurowill‑Code (NWC): Semantic Direct‑to‑Silicon Assembler <!-- Sync: 2026-02-12 08:58 -->
 <p align="center">
-  <img src="assets/logo.png" alt="NWC Logo" width="600">
+  <img src="assets/logo.png" alt="NWC Logo" width="800">
 </p>
 
 📜 **[Genealogía del Ecosistema Neuro-ASM](https://github.com/cyberenigma-lgtm/NeuroUniversalASM/blob/main/docs/genealogia_neuro_asm.md)**  
